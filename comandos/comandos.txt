@@ -1,0 +1,14 @@
+Algunos comandos importantes de git
+
+git init: es para poder crear un repositorio, para poder crear una carpeta (un proyecto) a un repositorio de git
+git status: Sirve para ver los archivos que se van a agregar el repositorio
+git commit -m: Sirve para poder darle un comentario al cambio que estamos realizando
+git add: es para agregar archivos al repositorio, se puede usar git add nombreDelArchivo que se va a agregar o git add . que sirve para agregar todos los archivos a la vez
+git push: sirve para enviar los cambios al repositorio remoto
+git pull: sirve para poder cargar los cambios hechos en el repositorio remoto (gitHub) al repositorio local
+git checkout: sirve para poder cambiar entre ramas ejemplos: git checkout luisBranch, git checkout main, etc...
+git merge: Funciona para poder fusionar los archivos de dos ramas
+
+COMO A HACER PARA PODER PASAR ARCHIVOS ENTRE DIFERENTES RAMAS EN GIT
+
+
